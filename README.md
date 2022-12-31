@@ -8,6 +8,10 @@ A bash script to remove bloatware from the Galaxy S9 (Exynos) running stock OneU
 4. On Unix based systems, run `bash deboater_script.sh`
 5. On Windows systems, run `.\debloater_script.bat`
 
+## Screenshots
+- Before ![Before debloat](https://github.com/andresindlp/g960f-debloater/blob/main/screenshots/before.jpg)
+- After ![After debloat](https://github.com/andresindlp/g960f-debloater/blob/main/screenshots/after.jpg)
+
 ## This script removes the following packages:
 ````bash
 com.google.android.youtube
