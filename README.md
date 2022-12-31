@@ -1,6 +1,13 @@
 # SM-G960F Bloatware Removal Tool
 A bash script to remove bloatware from the Galaxy S9 (Exynos) running stock OneUI
 
+## How-To
+1. Log into your Google account and update all of the apps
+2. Make sure your system can run adb commands
+3. If using Windows, change the file extension from `.sh` to `.bat`
+4. On Unix based systems, run `bash deboater_script.sh`
+5. On Windows systems, run `.\debloater_script.bat`
+
 ## This script removes the following packages:
 ````bash
 com.google.android.youtube
